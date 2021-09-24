@@ -17,9 +17,3 @@ nonflammable_gas
 poisonous_gas
 miscellaneous
 temperature
-
-
-
-
-
-
